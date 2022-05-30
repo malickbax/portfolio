@@ -1,1 +1,54 @@
-style.css
+:root{
+    --prim-color: #0044C8;
+    --sec-color: #B7571C;
+    --ter-color: #FFFFFF
+    }
+
+/* HEADER STARTS HERE */
+header{
+    padding: 20px 35px;
+    background-color: var(--prim-color);
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    position: sticky;
+    position: -webkit-sticky;
+    }
+
+header h1{
+    padding: 20px;
+    
+}
+
+header nav ul {
+    font-weight: lighter;
+    font-size: 1.55vw;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    }
+
+header nav ul li{
+    margin: 10px 10px;
+    padding: 20px 25px;
+    }
+
+header a{
+    color: var(--ter-color);
+    height: fit-content;
+}
+
+
+/* HEADER ENDS HERE */
+
+/* FOOTER STARTS HERE  */
+footer{
+    background: var(--prim-color);
+    padding: 20px 35px;   
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    flex-wrap: wrap;
+    color: white;
+    }
+/* footer ends  */
