@@ -15,4 +15,4 @@
 - Secondary color (--sec-color: #B7571C) is listed but has not been used. Next version will include this color to make the colors more diverse while staying uniform
 
 # Screenshot 
-- ![Homepage] (/assets/images/screenshot.jpeg)
+- ![Homepage screenshot](/assets/images/screenshot.jpeg) 
