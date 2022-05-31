@@ -6,6 +6,7 @@
 
 
 # Deployed Website Link
+- https://malickbax.github.io/portfolio/
 
 # GitHub repository link
 - https://github.com/malickbax/portfolio (main branch)
