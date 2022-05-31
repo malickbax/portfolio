@@ -132,7 +132,6 @@ header a{
     border-color: var(--prim-color);
     width: 450px;
     height: 300px;
-    float: inline-start;
 }
 .project-reverse{
     width: 50%;
@@ -145,7 +144,6 @@ header a{
     border-color: var(--prim-color);
     width: 450px;
     height: 300px;
-    float: inline-start;
 }
 
 .project-queue{
@@ -160,7 +158,6 @@ header a{
     border-color: var(--prim-color);
     width: 450px;
     height: 300px;
-    float: inline-start;
 }
 .project-familia{
     width: 50%;
@@ -173,9 +170,21 @@ header a{
     border-color: var(--prim-color);
     width: 450px;
     height: 300px;
-    float: inline-start;
 }
 /* OTHER/FUTURE PROJECTS STYLING END HERE */
+
+
+
+/* CONTACT SECTION STYLE  */
+.contact ul{
+    float: left;
+    width: 40%;
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+/* CONTACT SECTION STYLE ENDS HERE */
 
 
 
