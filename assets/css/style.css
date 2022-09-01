@@ -185,6 +185,14 @@ header a{
     width: 450px;
     height: 300px;
 }
+
+.project-bragging img{
+    border-left: 10px;
+    border-style: solid;
+    border-color: var(--prim-color);
+    width: 450px;
+    height: 300px;
+}
 /* OTHER/FUTURE PROJECTS STYLING END HERE */
 
 
