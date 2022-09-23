@@ -4,7 +4,7 @@
 Code for personal portfolio website. Please visit deployed URL for final product
 
 ## URL 
-
+https://malickbax.github.io/portfolio/
 
 ## Author
 **Malick Ba**, Software Engineer based in Virginia, USA.
