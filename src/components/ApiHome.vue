@@ -1,39 +1,13 @@
 <template>
 <div class="gradient-x-three-sm-primary mt-6">
+  <div id="projects"></div>
   <div class="container content-space-2 content-space-lg-3">
-    <h2>Projects</h2>
+      <h2>Projects</h2>
+    
     <p>Some of my projects are listed below. Click on the GitHub icon under any project to access its repository. 
       If you have questions on any of these projects, please contact me. 
       For more projects, please visit my <img class="avatar avatar-xss avatar-4x3" src="@/assets/svg/brands/github-icon.svg" alt="Logo"> <a class="link" href="https://github.com/malickbax" target="_blank">GitHub<i class="bi-chevron-right small ms-1"></i></a></p>
-    <div class="row align-items-lg-center">
-      <div class="col-lg-5 mb-5 mb-lg-0">
-        <div class="pe-lg-6">
-          <a class="link" href="https://malickbax.github.io/run-buddy/" target="_blank">Run Buddy<i class="bi-chevron-right small ms-1"></i></a>
-          <p>An e-commerce type of website that offers fitness training services. Website front-end layout if fully adjustable to all computer and mobile screen sizes.</p>
-          <p> <strong>Technologies Used:</strong> HTML, CSS, Bootstrap</p>
-          <img class="avatar avatar-xss avatar-4x3" src="@/assets/svg/brands/github-icon.svg" alt="Logo">
-        </div>
-      </div>    
-    <div class="col-lg-7">
-      <!-- Project picture frame -->
-      <figure class="device-browser">
-        <div class="device-browser-header">
-          <div class="device-browser-header-btn-list">
-            <span class="device-browser-header-btn-list-btn"></span>
-            <span class="device-browser-header-btn-list-btn"></span>
-            <span class="device-browser-header-btn-list-btn"></span>
-          </div>
-          <div class="device-browser-header-browser-bar">https://malickbax.github.io/run-buddy/</div>
-        </div>
-        <div class="device-browser-frame">
-          <img class="device-browser-img" src="@/assets/img/1920x800/screenshot-runbuddy.png" alt="Run Buddy Website">
-        </div>
-      </figure>
-    </div>
-  </div>
-        <!-- BREAK BETWEEN PROJECTS -->
-        <br>
-    <br>
+
 
     <!-- PROJECT 2 -->
     <div class="row align-items-lg-center">
@@ -44,7 +18,8 @@
             <p> <strong>Technologies Used:</strong> Node.JS, Express.JS, MySQL, Sequelize, Bootstrap, Upload.JS, Dotenv, Bcrypt</p>
             
             <!-- MAKE GITHUB LOGO LINK EXTERNALLY TO REPO -->
-            <img class="avatar avatar-xss avatar-4x3" src="@/assets/svg/brands/github-icon.svg" alt="Logo">
+            <a href="https://github.com/clairecashmore17/bragging-rights" target="_blank"><img alt="See GitHub Repository" src="../assets/img/github-icon.svg" width="auto" height="27"></a>
+          
           </div>
         </div>    
       <div class="col-lg-7">
@@ -76,13 +51,13 @@
         <div class="col-lg-5 mb-5 mb-lg-0">
           <div class="pe-lg-6">
             <a class="link" href="https://github.com/malickbax/readme-generator" target="_blank">README Generator<i class="bi-chevron-right small ms-1"></i></a>
-            <p>A command line application that dynamically generates a professional README.md file from a user's input using the Inquirer package.
+            <p>A command line back end application that dynamically generates a professional README.md file from a user's input using the Inquirer package.
               Please feel free to clone this application's reposiroty on GitHub and test it yourself. Installation instructions are lited in the repository README file.</p>
             <p>A walkthough video showing how this application works is availble<a class="link" href="https://drive.google.com/file/d/1dPn6gGm62wG-LFsWywlb80cxLQFz-Q3N/view?usp=sharing/" target="_blank"> here<i></i></a></p>
             <p> <strong>Technologies Used:</strong> JavaScript, Node.js, Inquirer NPM Package</p>
 
             <!-- ADD GH REPO LINK  -->
-            <img class="avatar avatar-xss avatar-4x3" src="@/assets/svg/brands/github-icon.svg" alt="Logo">
+            <a href="https://github.com/malickbax/readme-generator" target="_blank"><img alt="See GitHub Repository" src="../assets/img/github-icon.svg" width="auto" height="27"></a>
           </div>
         </div>    
       <div class="col-lg-7">
@@ -105,13 +80,13 @@
         <div class="col-lg-5 mb-5 mb-lg-0">
           <div class="pe-lg-6">
             <a class="link" href="https://github.com/malickbax/employee-teams-generator" target="_blank">Employee Teams Generator<i class="bi-chevron-right small ms-1"></i></a>
-            <p>Built using Node.js Inquirer Module to generate profiles based on user inputs. Information entered by the user generates an HTML file. I built this application using Test Driven Development process. This application demonstrates the capabilities of Object Oriented Progamming
+            <p>Back end project built using Node.js Inquirer Module to generate profiles based on user inputs. Information entered by the user generates an HTML file. I built this application using Test Driven Development process. This application demonstrates the capabilities of Object Oriented Progamming
               when building solutions for businesses.</p>
             <p>A walkthough video showing how this application works is availble<a class="link" href="https://drive.google.com/file/d/1qCRzH67in6UcpwodvprcBouH71TKkxuZ/view?usp=sharing" target="_blank"> here<i></i></a></p>
             <p> <strong>Technologies Used:</strong> JavaScript, HTML, Object Oriented Programming, Test-Driven Development, Node.js, Jest, Inquirer NPM Package</p>
 
             <!-- ADD GH REPO LINK  -->
-            <img class="avatar avatar-xss avatar-4x3" src="@/assets/svg/brands/github-icon.svg" alt="Logo">
+            <a href="https://github.com/malickbax/employee-teams-generator" target="_blank"><img alt="See GitHub Repository" src="../assets/img/github-icon.svg" width="auto" height="27"></a>
           </div>
         </div>    
       <div class="col-lg-7">
@@ -138,7 +113,7 @@
             <p> <strong>Technologies Used:</strong> HTML, CSS, Search Engine Optimizations Standards</p>
 
             <!-- ADD GH REPO LINK  -->
-            <img class="avatar avatar-xss avatar-4x3" src="@/assets/svg/brands/github-icon.svg" alt="Logo">
+            <a href="https://github.com/malickbax/horiseonSEO" target="_blank"><img alt="See GitHub Repository" src="../assets/img/github-icon.svg" width="auto" height="27"></a>
           </div>
         </div>    
       <div class="col-lg-7">
@@ -165,7 +140,35 @@
     <!-- BREAK BETWEEN PROJECTS -->
     <br>
     <br>
-
+    <div class="row align-items-lg-center">
+      <div class="col-lg-5 mb-5 mb-lg-0">
+        <div class="pe-lg-6">
+          <a class="link" href="https://malickbax.github.io/run-buddy/" target="_blank">Run Buddy<i class="bi-chevron-right small ms-1"></i></a>
+          <p>An e-commerce type of website that offers fitness training services. Website front-end layout if fully adjustable to all computer and mobile screen sizes.</p>
+          <p> <strong>Technologies Used:</strong> HTML, CSS, Bootstrap</p>
+          <a href="https://github.com/malickbax/run-buddy" target="_blank"><img alt="See GitHub Repository" src="../assets/img/github-icon.svg" width="auto" height="27"></a>
+        </div>
+      </div>    
+    <div class="col-lg-7">
+      <!-- Project picture frame -->
+      <figure class="device-browser">
+        <div class="device-browser-header">
+          <div class="device-browser-header-btn-list">
+            <span class="device-browser-header-btn-list-btn"></span>
+            <span class="device-browser-header-btn-list-btn"></span>
+            <span class="device-browser-header-btn-list-btn"></span>
+          </div>
+          <div class="device-browser-header-browser-bar">https://malickbax.github.io/run-buddy/</div>
+        </div>
+        <div class="device-browser-frame">
+          <img class="device-browser-img" src="@/assets/img/1920x800/screenshot-runbuddy.png" alt="Run Buddy Website">
+        </div>
+      </figure>
+    </div>
+  </div>
+        <!-- BREAK BETWEEN PROJECTS -->
+        <br>
+    <br>
     <!-- PROJECT 6 -->
     <div class="row align-items-lg-center">
         <div class="col-lg-5 mb-5 mb-lg-0">
@@ -175,7 +178,7 @@
             <p> <strong>Technologies Used:</strong> JavaScript, HTML, Bulma CSS Framework, Google Places API </p>
 
             <!-- ADD GH REPO LINK  -->
-            <img class="avatar avatar-xss avatar-4x3" src="@/assets/svg/brands/github-icon.svg" alt="Logo">
+            <a href="https://github.com/malickbax/fooder" target="_blank"><img alt="See GitHub Repository" src="../assets/img/github-icon.svg" width="auto" height="27"></a>
           </div>
         </div>    
       <div class="col-lg-7">
@@ -211,7 +214,7 @@
             <p> <strong>Technologies Used:</strong> JavaScript, HTML, CSS, JQuery</p>
 
             <!-- ADD GH REPO LINK  -->
-            <img class="avatar avatar-xss avatar-4x3" src="@/assets/svg/brands/github-icon.svg" alt="Logo">
+            <a href="https://github.com/malickbax/workday-planner" target="_blank"><img alt="See GitHub Repository" src="../assets/img/github-icon.svg" width="auto" height="27"></a>
           </div>
         </div>    
       <div class="col-lg-7">
@@ -248,7 +251,7 @@
             <p> <strong>Technologies Used:</strong> JavaScript, Bootstrap, JQuery</p>
 
             <!-- ADD GH REPO LINK  -->
-            <img class="avatar avatar-xss avatar-4x3" src="@/assets/svg/brands/github-icon.svg" alt="Logo">
+            <a href="https://github.com/malickbax/taskmaster" target="_blank"><img alt="See GitHub Repository" src="../assets/img/github-icon.svg" width="auto" height="27"></a>
           </div>
         </div>    
       <div class="col-lg-7">
@@ -282,7 +285,7 @@
             <p> <strong>Technologies Used:</strong> JavaScript, Bootstrap, JQuery, Open Weather API</p>
 
             <!-- ADD GH REPO LINK  -->
-            <img class="avatar avatar-xss avatar-4x3" src="@/assets/svg/brands/github-icon.svg" alt="Logo">
+            <a href="https://github.com/malickbax/weather-locator" target="_blank"><img alt="See GitHub Repository" src="../assets/img/github-icon.svg" width="auto" height="27"></a>
           </div>
         </div>    
       <div class="col-lg-7">
@@ -307,7 +310,7 @@
 <!-- PROJECTS LIST ENDS HERE -->
 
 
-
+<div id="contact"></div>
 
 
 <div class="position-relative bg-primary overflow-hidden">
@@ -355,9 +358,11 @@
 
           
           <!-- Tab Content -->
+          
           <div class="tab-content" id="featuresCodingTabContent">
             <div class="tab-pane fade show active" id="featuresCodingOne" role="tabpanel" aria-labelledby="featuresCodingOne-tab">
-              <p>I can be reach via email: <a href="mailto:malickbax@mail.com">malickbax@gmail.com</a> or by telephone: +1 (202) 552-9908</p>
+             
+              <p>I can be reach via email: <a href="mailto:malickbax@gmail.com">malickbax@gmail.com</a> or by telephone: +1 (202) 552-9908</p>
               <!-- Code -->
               <!-- <div class="text-monospace">
                 <div class="mb-4">
@@ -495,5 +500,3 @@ export default {
 name: 'ApiHome',
 }
 </script>
-<style>
-</style>

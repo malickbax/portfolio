@@ -1,10 +1,13 @@
+
 <template>
-<!-- Features -->
+<!-- About me section -->
 <div class="overflow-hidden mt-6">
+  <div id="about"></div>
   <div class="container ">
     <div class="row justify-content-lg-between align-items-lg-center">
       <div class="col-lg-6 mb-9 mb-lg-0">
         <div class="position-relative mx-auto" style="max-width: 22rem;">
+          
           <!-- Mobile Device -->
           <figure class="device-mobile mx-auto">
             <div class="device-mobile-frame">
@@ -39,7 +42,9 @@
       <div class="col-lg-5">
         <!-- Heading -->
         <div class="mb-5" >
+          
           <h2>About Me</h2>
+
         </div>
         <!-- End Heading -->
 
@@ -51,24 +56,18 @@
               <div class="step-content">
                 <!-- <h4 class="step-title">Industry-leading documentation</h4> -->
                 <p>Thank you for visiting my portfolio website. My name is Malick Ba and I am a <strong>Certified Full Stack Software Engineer</strong> based in Arlington, Virginia. 
-                  While my work in tech focuses on Front End Software Development, I possess a good working knowledge of the Back End. 
+                  While my work in tech focuses on <strong>Front End Software Development</strong>, I possess a good working knowledge of the <strong>Back End</strong> . 
                   I previously worked in International Security sector in the Washington, DC area and I gained a solid experience in 
                   <strong>Project Management</strong>, which provides a unique perspectives on how to best leverage <strong>team work</strong> and successfully manage <strong>software development projects</strong>.
                   <br>  
                   <br>
                   I speak four languages fluently, including French. My hobbies include cinema, soccer, and camping. 
-        If you have any questions, do not hesitate to send me a note. I would be happy to hear from you.</p>
-          
-
-
-   
+        If you have any questions, do not hesitate to send me a message. I would be happy to hear from you.</p>
               </div>
              </div>
           </li>
         </ul>
-
-
-<a class="btn btn-primary btn-transition" href="#">Contact</a>
+<a class="btn btn-primary btn-transition" href="#contact">Contact</a>
 </div>
 </div>
           <!-- Skills list -->

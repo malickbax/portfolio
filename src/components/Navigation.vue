@@ -28,16 +28,16 @@
             <ul class="navbar-nav">
 
             <li class="nav-item">
-              <a class="nav-link">Home</a>
+              <a href="./index.html" class="nav-link">Home</a>
             </li>
 
 
             <li class="nav-item">
-              <a class="nav-link">About</a>
+              <a href="#about" class="nav-link">About</a>
             </li>
 
             <li class="nav-item">
-              <a class="nav-link">Projects</a>
+              <a href="#projects" class="nav-link">Projects</a>
             </li>
           <!-- Projects -->
           <!-- <li class="nav-item dropdown">
@@ -66,7 +66,7 @@
           </li> -->
 
               <li class="nav-item">
-                <a class="nav-link">Contact</a>
+                <a href="#contact" class="nav-link">Contact</a>
               </li>
 
             </ul>
