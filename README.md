@@ -1,7 +1,14 @@
 # Portfolio Website
 
 ## Description
-Code for personal portfolio website. Please visit deployed URL for final product
+Code for personal portfolio website. Please visit deployed URL for final product. 
+
+## Technologies
+Technologies used to create this website: 
+- HTML
+- CSS
+- JavaScript
+- Vue.js
 
 ## URL 
 https://malickbax.github.io/portfolio/
