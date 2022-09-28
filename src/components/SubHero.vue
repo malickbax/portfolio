@@ -55,7 +55,7 @@
               <!-- <span class="step-icon step-icon-xs step-icon-soft-primary">1</span> -->
               <div class="step-content">
                 <!-- <h4 class="step-title">Industry-leading documentation</h4> -->
-                <p>Thank you for visiting my portfolio website. My name is Malick Ba and I am a <strong>Certified Full Stack Software Engineer</strong> based in Arlington, Virginia. 
+                <p>Thank you for visiting my portfolio website. My name is Malick Ba and I am a <strong>Certified Full Stack Software Engineer based in Arlington, Virginia</strong> . 
                   While my work in tech focuses on <strong>Front End Software Development</strong>, I possess a good working knowledge of the <strong>Back End</strong> . 
                   I previously worked in International Security sector in the Washington, DC area and I gained a solid experience in 
                   <strong>Project Management</strong>, which provides a unique perspectives on how to best leverage <strong>team work</strong> and successfully manage <strong>software development projects</strong>.

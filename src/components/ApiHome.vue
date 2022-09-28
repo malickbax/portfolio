@@ -245,7 +245,7 @@
     <div class="row align-items-lg-center">
         <div class="col-lg-5 mb-5 mb-lg-0">
           <div class="pe-lg-6">
-            <a class="link" href="https://malickbax.github.io/weather-locator/" target="_blank">Task Master Pro<i class="bi-chevron-right small ms-1"></i></a>
+            <a class="link" href="https://malickbax.github.io/taskmaster/" target="_blank">Task Master Pro<i class="bi-chevron-right small ms-1"></i></a>
               <p>This is a task management tool used to add and track any task. I developed this appplication using using jQuery, and Bootstrap to simplify and make UI/UX more user friendly. 
                 The application can be used by individuals in various work sectors such as education, business for any work that requires managing multiple tasks simultaneously.</p>
             <p> <strong>Technologies Used:</strong> JavaScript, Bootstrap, JQuery</p>
@@ -362,7 +362,7 @@
           <div class="tab-content" id="featuresCodingTabContent">
             <div class="tab-pane fade show active" id="featuresCodingOne" role="tabpanel" aria-labelledby="featuresCodingOne-tab">
              
-              <p>I can be reach via email: <a href="mailto:malickbax@gmail.com">malickbax@gmail.com</a> or by telephone: +1 (202) 552-9908</p>
+              <p>I can be reach via email: <a href="mailto:malickbax@gmail.com">malickbax@gmail.com</a> or telephone: +1 (202) 552-9908</p>
               <!-- Code -->
               <!-- <div class="text-monospace">
                 <div class="mb-4">
