@@ -13,8 +13,9 @@ Technologies used to create this website include:
 ## Deployed URL 
 https://malickbax.github.io/portfolio/
 
-## Screenshot
+## Screenshots
 ![Screenshot](/src/assets/img/screenshot.png)
+
 ![Screenshot](/src/assets/img/screenshot-2.png)
 
 

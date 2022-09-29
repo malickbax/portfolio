@@ -3,27 +3,23 @@
   <div id="projects"></div>
   <div class="container content-space-2 content-space-lg-3">
       <h2>Projects</h2>
-    
-    <p>Some of my projects are listed below. Click on the GitHub icon under any project to access its repository. 
-      If you have questions on any of these projects, please contact me. 
-      For more projects, please visit my <img class="avatar avatar-xss avatar-4x3" src="@/assets/svg/brands/github-icon.svg" alt="Logo"> <a class="link" href="https://github.com/malickbax" target="_blank">GitHub<i class="bi-chevron-right small ms-1"></i></a></p>
+        <p>Some of my projects are listed below. Click on the GitHub icon under any project to access its repository. 
+          If you have questions on any of these projects, please contact me. 
+          For more projects, please visit my <img class="avatar avatar-xss avatar-4x3" src="@/assets/svg/brands/github-icon.svg" alt="Logo"> <a class="link" href="https://github.com/malickbax" target="_blank">GitHub<i class="bi-chevron-right small ms-1"></i></a></p>
 
-
-    <!-- PROJECT 2 -->
+<!-- PROJECT -->
     <div class="row align-items-lg-center">
-        <div class="col-lg-5 mb-5 mb-lg-0">
-          <div class="pe-lg-6">
-            <a class="link" href="https://aqueous-stream-06315.herokuapp.com/" target="_blank">Bragging Rights<i class="bi-chevron-right small ms-1"></i></a>
-            <p>Worked closely with other Front and Back End Developers to build this blog-style web platform that allows users to post game achievements and view their fellow users achievements.</p>
-            <p> <strong>Technologies Used:</strong> Node.JS, Express.JS, MySQL, Sequelize, Bootstrap, Upload.JS, Dotenv, Bcrypt</p>
-            
-            <!-- MAKE GITHUB LOGO LINK EXTERNALLY TO REPO -->
-            <a href="https://github.com/clairecashmore17/bragging-rights" target="_blank"><img alt="See GitHub Repository" src="../assets/img/github-icon.svg" width="auto" height="27"></a>
-          
-          </div>
-        </div>    
+      <div class="col-lg-5 mb-5 mb-lg-0">
+        <div class="pe-lg-6">
+          <a class="link" href="https://aqueous-stream-06315.herokuapp.com/" target="_blank">Bragging Rights<i class="bi-chevron-right small ms-1"></i></a>
+          <p>Worked closely with other Front and Back End Developers to build this blog-style web platform that allows users to post game achievements and view their fellow users achievements.</p>
+          <p> <strong>Technologies Used:</strong> Node.JS, Express.JS, MySQL, Sequelize, Bootstrap, Upload.JS, Dotenv, Bcrypt</p>
+<!-- MADE GITHUB LOGO LINK EXTERNALLY TO REPO -->
+          <a href="https://github.com/clairecashmore17/bragging-rights" target="_blank"><img alt="See GitHub Repository" src="../assets/img/github-icon.svg" width="auto" height="27"></a>
+        </div>
+      </div>    
       <div class="col-lg-7">
-        <!-- PROJECT PICTURE -->
+<!-- PROJECT PICTURE -->
         <figure class="device-browser">
           <div class="device-browser-header">
             <div class="device-browser-header-btn-list">
@@ -33,7 +29,7 @@
             </div>
             <div class="device-browser-header-browser-bar">https://aqueous-stream-06315.herokuapp.com/</div>
           </div>
-        <!-- PROJECT SCREEENSHOT -->
+<!-- PROJECT SCREEENSHOT -->
           <div class="device-browser-frame">
             <img class="device-browser-img" src="@/assets/img/1920x800/screenshot-bragging.png" alt="Bragging Rights Website">
           </div>
@@ -41,29 +37,27 @@
       </div>
     </div>
  
+<!-- BREAK BETWEEN PROJECTS -->
+<br>
+<br>
 
-    <!-- BREAK BETWEEN PROJECTS -->
-    <br>
-    <br>
-
-    <!-- PROJECT 4 -->
+<!-- PROJECT -->
     <div class="row align-items-lg-center">
-        <div class="col-lg-5 mb-5 mb-lg-0">
-          <div class="pe-lg-6">
-            <a class="link" href="https://github.com/malickbax/readme-generator" target="_blank">README Generator<i class="bi-chevron-right small ms-1"></i></a>
-            <p>A command line back end application that dynamically generates a professional README.md file from a user's input using the Inquirer package.
-              Please feel free to clone this application's reposiroty on GitHub and test it yourself. Installation instructions are lited in the repository README file.</p>
-            <p>A walkthough video showing how this application works is availble<a class="link" href="https://drive.google.com/file/d/1dPn6gGm62wG-LFsWywlb80cxLQFz-Q3N/view?usp=sharing/" target="_blank"> here<i></i></a></p>
-            <p> <strong>Technologies Used:</strong> JavaScript, Node.js, Inquirer NPM Package</p>
-
-            <!-- ADD GH REPO LINK  -->
-            <a href="https://github.com/malickbax/readme-generator" target="_blank"><img alt="See GitHub Repository" src="../assets/img/github-icon.svg" width="auto" height="27"></a>
-          </div>
-        </div>    
+      <div class="col-lg-5 mb-5 mb-lg-0">
+        <div class="pe-lg-6">
+          <a class="link" href="https://github.com/malickbax/readme-generator" target="_blank">README Generator<i class="bi-chevron-right small ms-1"></i></a>
+          <p>A command line back end application that dynamically generates a professional README.md file from a user's input using the Inquirer package.
+            Please feel free to clone this application's reposiroty on GitHub and test it yourself. Installation instructions are lited in the repository README file.</p>
+          <p>A walkthough video showing how this application works is availble<a class="link" href="https://drive.google.com/file/d/1dPn6gGm62wG-LFsWywlb80cxLQFz-Q3N/view?usp=sharing/" target="_blank"> here<i></i></a></p>
+          <p> <strong>Technologies Used:</strong> JavaScript, Node.js, Inquirer NPM Package</p>
+<!-- GH REPO LINK  -->
+          <a href="https://github.com/malickbax/readme-generator" target="_blank"><img alt="See GitHub Repository" src="../assets/img/github-icon.svg" width="auto" height="27"></a>
+        </div>
+      </div>    
       <div class="col-lg-7">
-        <!-- PROJECT PICTURE -->
+<!-- PROJECT PICTURE -->
         <figure class="device-browser">
-        <!-- PROJECT SCREEENSHOT -->
+<!-- PROJECT SCREEENSHOT -->
           <div class="device-browser-frame">
             <img class="device-browser-img" src="@/assets/img/1920x800/gif-readme.gif" alt="README Generator Walkthough Video">
           </div>
@@ -73,7 +67,7 @@
 
 <!-- BREAK BETWEEN PROJECTS -->
 <br>
-    <br>
+<br>
 
     <!-- PROJECT 5 -->
     <div class="row align-items-lg-center">
