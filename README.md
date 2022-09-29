@@ -15,6 +15,8 @@ https://malickbax.github.io/portfolio/
 
 ## Screenshot
 ![Screenshot](/src/assets/img/screenshot.jpg)
+![Screenshot](/src/assets/img/screenshot-2.jpg)
+
 
 ## Project setup
 ```
