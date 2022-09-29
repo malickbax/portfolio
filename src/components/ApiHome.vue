@@ -305,13 +305,22 @@
           </div>
         </figure>
       </div>
+
+      
     </div>
+<!-- RESUME HERE -->
+    <div id="resume">
+    <br>
+    <br>
+      <h2 href="#resume">Resume</h2>
+        <p>For any questions about my qualifications, please contact me. My full resume can be found <a class="link" href="https://drive.google.com/file/d/1Z2bCzvGRWu0i6VqItnR8btw_s9Dh0YBw/view?usp=sharing" target="_blank">here<i class="bi-chevron-right small ms-1"></i></a></p> 
+    </div>
+<!-- RESUME ENDS HERE -->
 </div>
+
 <!-- PROJECTS LIST ENDS HERE -->
 
-
 <div id="contact"></div>
-
 
 <div class="position-relative bg-primary overflow-hidden">
     
@@ -340,12 +349,17 @@
               <!-- Nav Pills -->
               <ul class="nav nav-sm nav-pills nav-light nav-justified mb-5" id="featuresCodingTab" role="tablist">
                 <li class="nav-item" role="presentation">
-                  <a class="nav-link active" href="#featuresCodingOne" id="featuresCodingOne-tab" data-bs-toggle="tab" data-bs-target="#featuresCodingOne" role="tab" aria-controls="featuresCodingOne" aria-selected="true">E-mail & Phone</a>
+                  <a class="nav-link active" href="#featuresCodingOne" id="featuresCodingOne-tab" data-bs-toggle="tab" data-bs-target="#featuresCodingOne" role="tab" aria-controls="featuresCodingOne" aria-selected="true">E-mail</a>
                 </li>
-<!-- CONTACT FORM -->
-                <!-- <li class="nav-item" role="presentation">
-                  <a class="nav-link" href="#featuresCodingFive" id="featuresCodingFive-tab" data-bs-toggle="tab" data-bs-target="#featuresCodingFive" role="tab" aria-controls="featuresCodingFive" aria-selected="false">Contact Form</a>
-                </li> -->
+
+
+                <li class="nav-item" role="presentation">
+                  <a class="nav-link" href="#featuresCodingFive" id="featuresCodingFive-tab" data-bs-toggle="tab" data-bs-target="#featuresCodingFive" role="tab" aria-controls="featuresCodingFive" aria-selected="false">Phone</a>
+                </li> 
+
+                <li class="nav-item" role="presentation">
+                  <a class="nav-link" href="#featuresCodingFour" id="featuresCodingFour-tab" data-bs-toggle="tab" data-bs-target="#featuresCodingFour" role="tab" aria-controls="featuresCodingFour" aria-selected="false">LinkedIn</a>
+                </li>
 
                 <li class="nav-item" role="presentation">
                   <a class="nav-link" href="#featuresCodingSix" id="featuresCodingSix-tab" data-bs-toggle="tab" data-bs-target="#featuresCodingSix" role="tab" aria-controls="featuresCodingSix" aria-selected="false">GitHub</a>
@@ -362,57 +376,20 @@
           <div class="tab-content" id="featuresCodingTabContent">
             <div class="tab-pane fade show active" id="featuresCodingOne" role="tabpanel" aria-labelledby="featuresCodingOne-tab">
              
-              <p>I can be reach via email: <a href="mailto:malickbax@gmail.com">malickbax@gmail.com</a> or telephone: +1 (202) 552-9908</p>
-              <!-- Code -->
-              <!-- <div class="text-monospace">
-                <div class="mb-4">
-                  <span class="text-danger pe-2">public class</span>
-                  <span class="text-white-70">AppInheritanceTest {</span>
-                </div>
-                <div class="ps-3 mb-1">
-                  <span class="text-danger pe-2">public static void</span>
-                  <span class="text-white-70">main(String[] args) {</span>
-                </div>
-                <div class="ps-6 mb-4">
-                  <span class="text-white-70">Front</span>
-                  <span class="text-danger">front</span>
-                  <span class="text-white-70">=</span>
-                  <span class="text-danger">new</span>
-                  <span class="text-white-70">Front(</span><span class="text-danger">true</span><span class="text-white-70">,</span>
-                  <span class="text-primary">"theme"</span><span class="text-white-70">,</span> <span class="text-danger">4</span><span class="text-white-70">);</span>
-                </div>
-                <div class="ps-6 mb-1">
-                  <span class="text-white-70">System.</span><span class="text-primary"><em>out</em></span><span class="text-white-70">.println(</span><span class="text-primary">"Is Front Responsive?"</span>
-                  <span class="text-white-70">+</span>
-                  <span class="text-danger">front</span><span class="text-white-70">.isResponsive());</span>
-                </div>
-                <div class="ps-6 mb-1">
-                  <span class="text-white-70">System.</span><span class="text-primary"><em>out</em></span><span class="text-white-70">.println(</span><span class="text-primary">"Front HTML "</span>
-                  <span class="text-white-70">+</span>
-                  <span class="text-danger">front</span><span class="text-white-70">.getHTML());</span>
-                </div>
-                <div class="ps-6 mb-1">
-                  <span class="text-white-70">System.</span><span class="text-primary"><em>out</em></span><span class="text-white-70">.println(</span><span class="text-primary">"Front has "</span>
-                  <span class="text-white-70">+</span>
-                  <span class="text-danger">front</span><span class="text-white-70">.getDemos()</span>
-                  <span class="text-white-70">+</span>
-                  <span class="text-primary">" demos."</span><span class="text-white-70">);</span>
-                </div>
-                <div class="ps-3 mb-1">
-                  <span class="text-white-70">}</span>
-                </div>
-                <div class="mb-1">
-                  <span class="text-white-70">}</span>
-                </div>
-              </div> -->
-              <!-- End Code -->
+              I can be reach via email: <a href="mailto:malickbax@gmail.com">malickbax@gmail.com</a>
+            
+            </div>
+            
+
+
+            <div class="tab-pane fade" id="featuresCodingFive" role="tabpanel" aria-labelledby="featuresCodingFive-tab">
+              I can be reach via text or call:+1 (202) 552-9908
             </div>
 
-<!-- CONTACT FORM HERE -->
-            <!-- <div class="tab-pane fade" id="featuresCodingFive" role="tabpanel" aria-labelledby="featuresCodingFive-tab">
-              Coming soon...
-            </div> -->
-
+            <div class="tab-pane fade" id="featuresCodingFour" role="tabpanel" aria-labelledby="featuresCodingFour-tab">
+              LinkedIn: <a href="https://www.linkedin.com/in/malickbax/" target="_blank">https://www.linkedin.com/in/malickbax</a>
+          
+            </div>
             <div class="tab-pane fade" id="featuresCodingSix" role="tabpanel" aria-labelledby="featuresCodingSix-tab">
               GitHub Profile: <a href="https://github.com/malickbax" target="_blank">https://github.com/malickbax</a>
           

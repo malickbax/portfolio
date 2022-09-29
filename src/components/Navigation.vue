@@ -39,6 +39,10 @@
             <li class="nav-item">
               <a href="#projects" class="nav-link">Projects</a>
             </li>
+
+            <li class="nav-item">
+              <a href="#resume" class="nav-link">Resume</a>
+            </li>
           <!-- Projects -->
           <!-- <li class="nav-item dropdown">
             <a id="companyMegaMenu" class="nav-link dropdown-toggle " href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Projects</a> -->
