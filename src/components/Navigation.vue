@@ -10,7 +10,7 @@
       <a href="./index.html" class="btn btn-primary btn-transition">Malick Ba</a>
 <!-- End name/logo -->
 
-<!-- Potential down menu for future projects -->
+<!-- POTENTIAL DROP DOWN MENU FOR FUTURE VERSIONS OF PORTFOLIO WEBSITE -->
   <!-- <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-default">
       <i class="bi-list"></i>
@@ -47,7 +47,6 @@
       </nav>
     </div>
   </header>
-
 </template>
 
 <script>
