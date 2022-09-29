@@ -14,7 +14,7 @@
         <div class="col-lg-5 mb-5 mb-lg-0">
           <div class="pe-lg-6">
             <a class="link" href="https://aqueous-stream-06315.herokuapp.com/" target="_blank">Bragging Rights<i class="bi-chevron-right small ms-1"></i></a>
-            <p>Blog-style web platform that allows users to post game achievements and view their fellow users achievements.</p>
+            <p>Worked closely with other Front and Back End Developers to build this blog-style web platform that allows users to post game achievements and view their fellow users achievements.</p>
             <p> <strong>Technologies Used:</strong> Node.JS, Express.JS, MySQL, Sequelize, Bootstrap, Upload.JS, Dotenv, Bcrypt</p>
             
             <!-- MAKE GITHUB LOGO LINK EXTERNALLY TO REPO -->

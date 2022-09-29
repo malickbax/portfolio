@@ -52,22 +52,21 @@
         <ul class="step step-dashed mb-7">
           <li class="step-item">
             <div class="step-content-wrapper">
-              <!-- <span class="step-icon step-icon-xs step-icon-soft-primary">1</span> -->
               <div class="step-content">
-                <!-- <h4 class="step-title">Industry-leading documentation</h4> -->
-                <p>Thank you for visiting my portfolio website. My name is Malick Ba and I am a <strong>Certified Full Stack Software Engineer based in Arlington, Virginia</strong> . 
-                  While my work in tech focuses on <strong>Front End Software Development</strong>, I possess a good working knowledge of the <strong>Back End</strong> . 
-                  I previously worked in International Security sector in the Washington, DC area and I gained a solid experience in 
-                  <strong>Project Management</strong>, which provides a unique perspectives on how to best leverage <strong>team work</strong> and successfully manage <strong>software development projects</strong>.
-                  <br>  
-                  <br>
-                  I speak four languages fluently, including French. My hobbies include cinema, soccer, and camping. 
-        If you have any questions, do not hesitate to send me a message. I would be happy to hear from you.</p>
+                <p><strong>Highly motivated to create and support quality products and meet your organization and clients' needs.</strong></p>
+                  
+                  <p>Thank you for visiting my portfolio. I am a Certified Full Stack Developer based in Arlington, Virginia. 
+                  While my work in tech focuses on the Front End, I do possess a good working knowledge of the Back End. 
+                  Previously, I worked in International Security sector in the Washington, DC area and gained a solid experience in 
+                  Project Management, which provides a unique perspective when working in development teams using Agile methodology.
+                  I love solving problems, debugging, troubleshooting, designing and implementing solutions to complex issues.</p>
+
+                  <p>I speak four languages fluently, including French. My hobbies include cinema, soccer, and camping. If you have any questions, do not hesitate to send me a message. I would be happy to hear from you.</p>
               </div>
-             </div>
+            </div>
+            <a class="btn btn-primary btn-transition" href="#contact">Contact</a>
           </li>
         </ul>
-<a class="btn btn-primary btn-transition" href="#contact">Contact</a>
 </div>
 </div>
           <!-- Skills list -->
