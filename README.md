@@ -5,8 +5,8 @@ Code for professional portfolio website. Please visit deployed URL for final pro
 
 ## Technologies Used
 Technologies used to create this website include: 
-- JavaScript
 - Vue.js
+- JavaScript
 - HTML
 - CSS
 
