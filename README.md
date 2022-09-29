@@ -16,8 +16,27 @@ https://malickbax.github.io/portfolio/
 ## Screenshot
 ![Screenshot](tutorial.gif)
 
-## Test
-No testing required
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run server
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ## Author
 **Malick Ba**, Software Engineer based in Virginia, USA.
