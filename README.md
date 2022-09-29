@@ -14,7 +14,7 @@ Technologies used to create this website include:
 https://malickbax.github.io/portfolio/
 
 ## Screenshot
-![Screenshot](tutorial.gif)
+![Screenshot](/src/assets/img/screenshot.png)
 
 ## Project setup
 ```
