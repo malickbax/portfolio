@@ -370,17 +370,17 @@
   <!-- Tab Content -->
             <div class="tab-content" id="featuresCodingTabContent">
               <div class="tab-pane fade show active" id="featuresCodingOne" role="tabpanel" aria-labelledby="featuresCodingOne-tab">
-                I can be reach via email: <a href="mailto:malickbax@gmail.com">malickbax@gmail.com</a>
+                I can be reached via email: <a href="mailto:malickbax@gmail.com">malickbax@gmail.com</a>
               </div>
 
               <div class="tab-pane fade" id="featuresCodingFive" role="tabpanel" aria-labelledby="featuresCodingFive-tab">
-                I can be reach via text or call:+1 (202) 552-9908
+                I can be reached via text or call:+1 (202) 552-9908
               </div>
 
               <div class="tab-pane fade" id="featuresCodingFour" role="tabpanel" aria-labelledby="featuresCodingFour-tab">
-                LinkedIn: <a href="https://www.linkedin.com/in/malickbax/" target="_blank">https://www.linkedin.com/in/malickbax</a>
-            
+                LinkedIn: <a href="https://www.linkedin.com/in/malickbax/" target="_blank">https://www.linkedin.com/in/malickbax</a>              
               </div>
+              
               <div class="tab-pane fade" id="featuresCodingSix" role="tabpanel" aria-labelledby="featuresCodingSix-tab">
                 GitHub Profile: <a href="https://github.com/malickbax" target="_blank">https://github.com/malickbax</a>
               </div>
