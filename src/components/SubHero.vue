@@ -38,7 +38,7 @@
               <li class="step-item">
                 <div class="step-content-wrapper">
                   <div class="step-content">
-                    <p><strong>Highly motivated to create and support quality products and meet your organization and clients' needs.</strong></p>
+                    <p><strong>Highly motivated to create and support quality products that meet your organization and clients' needs.</strong></p>
                     <p>Thank you for visiting my portfolio. I am a Certified Full Stack Developer based in Arlington, Virginia. 
                     While my work in tech focuses on the Front End, I do possess a good working knowledge of the Back End. 
                     Previously, I worked in International Security sector in the Washington, DC area and gained a solid experience in 

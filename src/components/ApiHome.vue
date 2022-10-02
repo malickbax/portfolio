@@ -80,7 +80,7 @@
             <a class="link" href="https://github.com/malickbax/employee-teams-generator" target="_blank">Employee Teams Generator<i class="bi-chevron-right small ms-1"></i></a>
             <p>Back end project built using Node.js Inquirer Module to generate profiles based on user inputs. 
               Information entered by the user generates an HTML file. I built this application using Test Driven Development process. 
-              This application demonstrates the capabilities of Object Oriented Progamming
+              This application demonstrates the capabilities of Object Oriented Programming
               when building solutions for businesses.</p>
             <p>A walkthough video showing how this application works is availble<a class="link" href="https://drive.google.com/file/d/1qCRzH67in6UcpwodvprcBouH71TKkxuZ/view?usp=sharing" target="_blank"> here<i></i></a></p>
             <p> <strong>Technologies Used:</strong> JavaScript, HTML, Object Oriented Programming, Test-Driven Development, Node.js, Jest, Inquirer NPM Package</p>
@@ -378,11 +378,11 @@
               </div>
 
               <div class="tab-pane fade" id="featuresCodingFour" role="tabpanel" aria-labelledby="featuresCodingFour-tab">
-                LinkedIn: <a href="https://www.linkedin.com/in/malickbax/" target="_blank">https://www.linkedin.com/in/malickbax</a>              
+                <a href="https://www.linkedin.com/in/malickbax/" target="_blank">https://www.linkedin.com/in/malickbax</a>              
               </div>
               
               <div class="tab-pane fade" id="featuresCodingSix" role="tabpanel" aria-labelledby="featuresCodingSix-tab">
-                GitHub Profile: <a href="https://github.com/malickbax" target="_blank">https://github.com/malickbax</a>
+                <a href="https://github.com/malickbax" target="_blank">https://github.com/malickbax</a>
               </div>
             </div>
   <!-- End Tab Content -->
