@@ -12,7 +12,7 @@
         <div class="col-lg-5 mb-5 mb-lg-0">
           <div class="pe-lg-6">
             <a class="link" href="https://aqueous-stream-06315.herokuapp.com/" target="_blank">Bragging Rights<i class="bi-chevron-right small ms-1"></i></a>
-            <p>Worked closely with other Front and Back End Developers to build this blog-style web platform that allows users to post game achievements and view their fellow users achievements.</p>
+            <p>Worked closely with other Front and Back End Developers to build this blog-style web platform that allows users to post game achievements and view their fellow gamers' achievements.</p>
             <p> <strong>Technologies Used:</strong> Node.JS, Express.JS, MySQL, Sequelize, Bootstrap, Upload.JS, Dotenv, Bcrypt</p>
 
   <!-- MADE GITHUB LOGO LINK EXTERNALLY TO REPO -->
@@ -109,7 +109,7 @@
           <div class="col-lg-5 mb-5 mb-lg-0">
             <div class="pe-lg-6">
               <a class="link" href="https://malickbax.github.io/horiseonSEO/" target="_blank">Horiseon<i class="bi-chevron-right small ms-1"></i></a>
-              <p>Search Engine Optimization for a virual company website.</p>
+              <p>Search Engine Optimization for a virual marketing firm website.</p>
               <p> <strong>Technologies Used:</strong> HTML, CSS, Search Engine Optimizations Standards</p>
               <!-- GITHUB REPO LINK  -->
               <a href="https://github.com/malickbax/horiseonSEO" target="_blank"><img alt="See GitHub Repository" src="../assets/img/github-icon.svg" width="auto" height="27"></a>
@@ -315,7 +315,7 @@
     <br>
     <br>
       <h2 href="#resume">Resume</h2>
-        <p>For any questions about my qualifications, please contact me. My full resume can be found <a class="link" href="https://drive.google.com/file/d/1Z2bCzvGRWu0i6VqItnR8btw_s9Dh0YBw/view?usp=sharing" target="_blank">here<i class="bi-chevron-right small ms-1"></i></a></p> 
+        <p>For any questions about my qualifications, please contact me. My resume can be found <a class="link" href="https://drive.google.com/file/d/1Z2bCzvGRWu0i6VqItnR8btw_s9Dh0YBw/view?usp=sharing" target="_blank">here<i class="bi-chevron-right small ms-1"></i></a></p> 
     </div>
     <!-- PROJECT ENDS -->
   </div>
@@ -393,6 +393,19 @@
   <!-- End Col -->
       <div class="col-lg-5 mb-7 mb-lg-0">
 
+        <!-- POTENTIAL MOVE RESUME SECTION HERE -->
+<!-- <div class="mb-5 text-white">
+<h2 href="#resume" class="text-white">Resume</h2>
+<p>For any questions about my qualifications, please contact me. My resume can be found <a  color="white" href="https://drive.google.com/file/d/1Z2bCzvGRWu0i6VqItnR8btw_s9Dh0YBw/view?usp=sharing" target="_blank">here<i ></i></a></p> 
+</div>
+
+
+<div id="resume">
+<br>
+<br>
+</div> -->
+
+        
   <!-- Heading of contact me section - right side -->
           <div class="mb-5 text-white">
             <h2 class="text-white">Contact Me</h2>

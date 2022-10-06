@@ -3,12 +3,14 @@
   <div class="overflow-hidden gradient-y-sm-primary">
     <div class="container content-space-t-4 content-space-b-3">
       <div class="row justify-content-lg-between align-items-md-center">
-        <div class="col-md-6 col-lg-5 mb-7 mb-md-0">
+        <div class="col-md-6 col-lg-6 mb-7 mb-md-0">
 
 <!-- QUICK PRESENTATION ABOUT ME -->
           <div class="mb-5">
-            <p class="lead">Malick Ba, MSc</p>
-            <h2>Front End Software Engineer with working knowledge of the Back End and solid experience in Project Management</h2>
+            <!-- <p class="lead">Malick Ba, MSc</p> -->
+            <p class="lead">Malick Ba</p>
+            <h2>Front End Software Engineer with working knowledge of the Back End.</h2>
+            <p class="lead">Highly motivated to create quality products for your organization and clients' needs.</p>
           </div>
         </div>
 <!-- END QUICK PRESENTATION -->

@@ -38,16 +38,34 @@
               <li class="step-item">
                 <div class="step-content-wrapper">
                   <div class="step-content">
-                    <p><strong>Highly motivated to create and support quality products that meet your organization and clients' needs.</strong></p>
                     <p>Thank you for visiting my portfolio. I am a Certified Full Stack Developer based in Arlington, Virginia. 
                     While my work in tech focuses on the Front End, I do possess a good working knowledge of the Back End. 
                     Previously, I worked in International Security sector in the Washington, DC area and gained a solid experience in 
                     Project Management, which provides a unique perspective when working in development teams using Agile methodology.
-                    I love solving problems, debugging, troubleshooting, designing and implementing solutions to complex issues.</p>
+                    I love solving problems, designing and implementing solutions to complex issues.</p>
                     <p>I speak four languages fluently, including French. My hobbies include cinema, soccer, and camping. If you have any questions, do not hesitate to send me a message. I would be happy to hear from you.</p>
+                  <!-- SKILLS -->
+                    <p class="lead">Skills</p>
+                    
+                    <p>Front End Technologies</p>
+                    <p><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" width="auto" height="27" alt="Logo"> <a class="link" href="https://github.com/malickbax?tab=repositories&q=&type=&language=&sort=" target="_blank"><i class="bi-chevron-right small ms-1"></i></a></p>
+                    <p><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" width="auto" height="27" alt="Logo"> <a class="link" href="https://github.com/malickbax?tab=repositories&q=&type=&language=&sort=" target="_blank"><i class="bi-chevron-right small ms-1"></i></a></p>
+                    <p><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" width="auto" height="27" alt="Logo"> <a class="link" href="https://github.com/malickbax?tab=repositories&q=&type=&language=&sort=" target="_blank"><i class="bi-chevron-right small ms-1"></i></a></p>
+                    <p><img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" width="auto" height="27" alt="Logo"> <a class="link" href="https://github.com/malickbax?tab=repositories&q=&type=&language=&sort=" target="_blank"><i class="bi-chevron-right small ms-1"></i></a></p>
+
+                    <p>JavaScript Frameworks</p>
+                    <p><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" width="auto" height="27" alt="Logo"> <a class="link" href="https://github.com/malickbax?tab=repositories&q=&type=&language=javascript&sort=" target="_blank"><i class="bi-chevron-right small ms-1"></i></a></p>
+                    <p><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" width="auto" height="27" alt="Logo"> <a class="link" href="https://github.com/malickbax?tab=repositories" target="_blank"><i class="bi-chevron-right small ms-1"></i></a></p>
+                    <p><img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" width="auto" height="27" alt="Logo"> <a class="link" href="https://github.com/malickbax?tab=repositories&q=&type=&language=vue&sort=" target="_blank"><i class="bi-chevron-right small ms-1"></i></a></p>
+                    
+                    <p>Back End and Other Technologies</p>
+                    <p><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" width="auto" height="27" alt="Logo"> <a class="link" href="https://github.com/malickbax?tab=repositories" target="_blank"><i class="bi-chevron-right small ms-1"></i></a></p>
+                    <p><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" width="auto" height="27" alt="Logo"> <a class="link" href="https://github.com/malickbax/employee-teams-generator" target="_blank"><i class="bi-chevron-right small ms-1"></i></a></p>
+                    <p><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" width="auto" height="27" alt="Logo"> <a class="link" href="https://github.com/malickbax" target="_blank"><i class="bi-chevron-right small ms-1"></i></a></p>
+                    <p><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" width="auto" height="27" alt="Logo"> <a class="link" href="https://github.com/malickbax?tab=repositories" target="_blank"><i class="bi-chevron-right small ms-1"></i></a></p>
                   </div>
                 </div>
-                <a class="btn btn-primary btn-transition" href="#contact">Contact</a>
+                <a class="btn btn-primary btn-transition" href="#contact">Contact Me</a>
               </li>
             </ul>
           </div>
